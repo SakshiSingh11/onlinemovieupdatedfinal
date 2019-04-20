@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace UserProject.Controllers
-{
+{//account
     [Route("account")]
     public class AccountController : Controller
     {
